@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "The Blood-Brain Barrier"
 date:   2016-12-19 22:04:31 -0800
 categories: jekyll update
 ---
