@@ -57,4 +57,6 @@ Through testing we found that this algorithm will (slowly) learn to play Tetris 
  - Each pixel in the Tetris board was represented as a single neuron in a simple single-hidden-layer neural network in my implementation. It would be interesting to see the results using a convolutional neural network.
  - Remember that `exploit` should only happen after the algorithm has `explored` sufficiently.
 
-If you're interested in a technical analysis of the TD-Gammon algorithm as it applies to Tetris look [here]({{ site.url }}/assets/temporal_difference_in_tetris.pdf). The code behind the analysis can be found [here].
+If you're interested in a technical analysis of the TD-Gammon algorithm as it applies to Tetris look [here]({{ site.url }}/assets/temporal_difference_in_tetris.pdf).
+
+The code behind the analysis can be found [here](https://github.com/LodewijkBrand/Tetris).

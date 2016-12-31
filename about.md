@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<img style="float: right;" src="/images/about_photo.jpg">
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Lou Brand is employed as an embedded software engineer in San Diego. He is currently applying to graduate school PhD programs in Computer Science at a variety of schools across the United States.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+His current research interests include applied machine learning, artificial intelligence, graphics and embedded software.
+
+Lou recently moved to San Diego from Colorado Springs where he worked as a software engineer in algorithm development. Lou uses his love for rock-climbing explore opportunity across the United States from his hometown in Baltimore to San Diego.
+
+[photo]: /images/about_photo.jpg
